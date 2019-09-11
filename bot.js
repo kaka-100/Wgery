@@ -868,7 +868,7 @@ client.on('message', PuP => {
 
 client.on('ready', function(){
     var ms = 10000 ;
-    var setGame = ['-help',`Im on ${client.guilds.size} servers`,,' Delhab The Best ','Mo3GzZa'];
+    var setGame = ['-help',`Im on ${client.guilds.size} servers`,,' ØS The Best ','ßāđ&!*X'];
     var i = -1;
     var j = 0;
     setInterval(function (){
@@ -3777,7 +3777,7 @@ reaction3.on("collect", r => {
 『-لعبة مريم ====> مريم
 『-عواصم
 『-يعطيك عقابات قاسية ====> عقاب
-『 By ====> Mo3GzZa#6613 
+『 By ====> ßāđ&!*XĽ
 `)
    message.author.sendEmbed(embed)
    message.reply('تم ارسالك بلخاص')
@@ -4347,7 +4347,7 @@ client.on("message", message => {
      const embed = new Discord.RichEmbed() 
          .setColor("#ffff00")
          .setDescription(`
-✧▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱✧ Delhab ✧▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱✧
+✧▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱✧ ßāđ&!*XĽ ✧▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱✧
 الفكره الرئيسيه 
  صنع مجتمع مصري للجيمرز 
 ▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱
